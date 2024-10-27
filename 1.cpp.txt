@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	//y=8*(x+t)
+	int x=2, t=3;
+	double y;
+	y=8 * (x + t);
+	cout << "Y=" << y << endl;
+
+}
